@@ -1,0 +1,27 @@
+{% extends 'namelist/base.html' %}
+ {% block main_content %}
+{% load static%}
+
+
+<img height="100" width="100" src="{% static 'namelist/images/1.png' %}"><p>
+<b>Mijn eerste app</b>
+
+<table class="CSS_Table_Example">
+    {% for n in names %}
+    <tr>
+        <td> {{n.first_name}} {{n.last_name}} </td><td> <a href="/tasks/{{n.id}}">[Tasks]</a>
+
+          {% for a in n.adress_set.all %}
+
+        </td>
+         <td> <a href="{% url 'names:adress2' a.id %}">[Adres]</a></td></tr>
+
+          {% endfor %}
+    {% endfor %}
+
+</table>
+
+
+{% endblock %}
+
+

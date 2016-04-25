@@ -1,0 +1,19 @@
+{% extends 'namelist/base.html' %}
+{% block main_content %}
+{% load static %}
+<img height="75" width="75" src="{% static 'weather/images/weather.png' %}"><p>
+
+<div style="margin-left:20px;">
+
+    Weather for: <b>{{name}}</b><br>
+    Description:  {{description}}<br>
+    Temperature : {{temp}}<br>
+    Pressure: {{pressure}}<br>
+    Min temperature: {{temp_min}}<br>
+    Max temperature: {{temp_max}}<br>
+    Humidity: {{humidity}}<br>
+    Clouds: {{allclouds}}%
+</div>
+
+
+{% endblock %}

@@ -1,0 +1,352 @@
+(dp0
+I1
+(lp1
+V[Rust] Something Secret This Way Comes
+p2
+aVhttps://llogiq.github.io/2016/04/24/nsa.html
+p3
+aI71
+asI2
+(lp4
+VUse OpenGL to get more RAM
+p5
+aVhttps://github.com/graphitemaster/moreram
+p6
+aI18
+asI3
+(lp7
+VFor What It\u2019s Worth: A Review of Wu-Tang Clan\u2019s \u201cOnce Upon a Time in Shaolin\u201d
+p8
+aVhttp://www.dancohen.org/2016/01/04/for-what-its-worth-a-review-of-the-wu-tang-clans-once-upon-a-time-in-shaolin/
+p9
+aI137
+asI4
+(lp10
+VSolar Impulse lands in California after Pacific crossing
+p11
+aVhttp://www.bbc.com/news/science-environment-36122618
+p12
+aI7
+asI5
+(lp13
+VSchools are helping police spy on kids\u2019 social media activity
+p14
+aVhttps://www.washingtonpost.com/news/the-switch/wp/2016/04/22/schools-are-helping-police-spy-on-kids-social-media-activity/
+p15
+aI32
+asI6
+(lp16
+VNASA to begin historic new era of X-Planes
+p17
+aVhttp://www.nasa.gov/aero/nasa-moves-to-begin-historic-new-era-of-x-plane-research
+p18
+aI93
+asI7
+(lp19
+VThe impact of Prince\u2019s death on Wikipedia
+p20
+aVhttps://blog.wikimedia.org/2016/04/22/prince-death-wikipedia/
+p21
+aI222
+asI8
+(lp22
+VBots won't replace apps, only better apps will replace apps
+p23
+aVhttp://dangrover.com/blog/2016/04/20/bots-wont-replace-apps.html
+p24
+aI180
+asI9
+(lp25
+VReversing the Petya ransomware with constraint solvers
+p26
+aVhttp://0xec.blogspot.com/2016/04/reversing-petya-ransomware-with.html
+p27
+aI202
+asI10
+(lp28
+VWilliam Shakespeare, Playwright and Poet, Is Dead at 52
+p29
+aVhttp://www.nytimes.com/interactive/2016/04/23/arts/shakespeare-obituary.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=mini-moth&region=top-stories-below&WT.nav=top-stories-below&_r=0
+p30
+aI96
+asI11
+(lp31
+VGSL \u2013 a Universal Code Generator
+p32
+aVhttps://github.com/imatix/gsl
+p33
+aI56
+asI12
+(lp34
+VThe Muse (YC W12) is hiring fullstack and back end engineers to build cool shit
+p35
+aVhttps://www.themuse.com/jobs/themuse/fullstack-engineer-5d8351
+p36
+aI1
+asI13
+(lp37
+VOpera VPN behind the curtains is just a proxy
+p38
+aVhttps://gist.github.com/spaze/558b7c4cd81afa7c857381254ae7bd10
+p39
+aI111
+asI14
+(lp40
+VIranians Are Using Satellite TV to Beam in Banned Internet
+p41
+aVhttp://www.wired.com/2016/04/ingenious-way-iranians-using-satellite-tv-beam-banned-data/
+p42
+aI174
+asI15
+(lp43
+VFPGA expansion board for the Amiga 500: SDRAM, microSD mass storage and Ethernet
+p44
+aVhttps://github.com/endofexclusive/greta
+p45
+aI92
+asI16
+(lp46
+VShow HN: QBE \u2013 a new compiler back end
+p47
+aVhttp://c9x.me/compile/
+p48
+aI208
+asI17
+(lp49
+VThe Chaos and the Craftsmanship of Shenzhen
+p50
+aVhttp://rexstjohn.com/the-chaos-and-the-craftsmanship-of-shenzhen-part-ii/
+p51
+aI104
+asI18
+(lp52
+VEx-Reddit exec launches 'Imzy,' a warmer, fuzzier Reddit
+p53
+aVhttp://thenextweb.com/insider/2016/04/22/fired-reddit-exec-quietly-launches-izzy-a-warmer-fuzzier-reddit/
+p54
+aI138
+asI19
+(lp55
+VV8 Release 5.1
+p56
+aVhttp://v8project.blogspot.com/2016/04/v8-release-51.html
+p57
+aI153
+asI20
+(lp58
+VWhy Uber Won
+p59
+aVhttps://news.greylock.com/why-uber-won-5598a2a66561#.hz33sst9k
+p60
+aI139
+asI21
+(lp61
+VDoom as a tool for system administration (1999)
+p62
+aVhttps://www.cs.unm.edu/~dlchao/flake/doom/
+p63
+aI151
+asI22
+(lp64
+VInterview with Scott Aaronson
+p65
+aVhttp://blogs.scientificamerican.com/cross-check/scott-aaronson-answers-every-ridiculously-big-question-i-throw-at-him/
+p66
+aI181
+asI23
+(lp67
+VSorry ARIMA, but I\u2019m Going Bayesian
+p68
+aVhttp://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/
+p69
+aI143
+asI24
+(lp70
+VMaking 1M requests with Python-aiohttp
+p71
+aVhttp://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html
+p72
+aI107
+asI25
+(lp73
+VThe Paradox of the Elephant Brain
+p74
+aVhttp://nautil.us/issue/35/boundaries/the-paradox-of-the-elephant-brain
+p75
+aI84
+asI26
+(lp76
+VNot All Practice Makes Perfect
+p77
+aVhttp://nautil.us/issue/35/boundaries/not-all-practice-makes-perfect
+p78
+aI118
+asI27
+(lp79
+VWhat If the Future of Technology Is in Your Ear?
+p80
+aVhttps://backchannel.com/the-future-of-technology-is-in-your-ear-8c276b810413
+p81
+aI33
+asI28
+(lp82
+VThe Rise of Pirate Libraries
+p83
+aVhttp://www.atlasobscura.com/articles/the-rise-of-illegal-pirate-libraries?utm_source=facebook.com&utm_medium=atlas-page
+p84
+aI117
+asI29
+(lp85
+VVictorians who flew as high as jumbo jets
+p86
+aVhttp://www.bbc.com/future/story/20160419-the-victorians-who-flew-as-high-as-jets
+p87
+aI141
+asI30
+(lp88
+VAphantasia: How It Feels to Be Blind in Your Mind
+p89
+aVhttps://www.facebook.com/notes/blake-ross/aphantasia-how-it-feels-to-be-blind-in-your-mind/10156834777480504
+p90
+aI170
+asI31
+(lp91
+VHow we found that the Linux nios2 memset() implementation had a bug
+p92
+aVhttp://free-electrons.com/blog/how-we-found-that-the-linux-nios2-memset-implementation-had-a-bug/
+p93
+aI92
+asI32
+(lp94
+VLearning to Live with the Voices in Your Head (2014)
+p95
+aVhttp://www.theatlantic.com/health/archive/2014/11/learning-to-live-with-the-voices-in-your-head/382096/?single_page=true
+p96
+aI57
+asI33
+(lp97
+VBill Gates' worst decisions as CEO, according to a longtime Microsoft exec
+p98
+aVhttp://www.businessinsider.com/bill-gates-worst-decisions-as-ceo-2016-4
+p99
+aI24
+asI34
+(lp100
+VNew protein injection reverses Alzheimer\u2019s symptoms in mice in one week
+p101
+aVhttp://www.sciencealert.com/new-protein-injection-reverses-alzheimer-s-symptoms-in-mice-in-just-one-week
+p102
+aI9
+asI35
+(lp103
+VThe average size of Web pages is now the average size of a Doom install
+p104
+aVhttps://mobiforge.com/research-analysis/the-web-is-doom
+p105
+aI823
+asI36
+(lp106
+VHTTP/2 Adoption Stats
+p107
+aVhttp://isthewebhttp2yet.com/measurements/structure.html
+p108
+aI51
+asI37
+(lp109
+VA Protocol for Dying
+p110
+aVhttp://hintjens.com/blog:115
+p111
+aI1516
+asI38
+(lp112
+VInteractively Explore 120M Flight Records with GPUs
+p113
+aVhttp://www.mapd.com/blog/2016/04/21/flying-through-flights-data-with-mapd/
+p114
+aI39
+asI39
+(lp115
+VHow the Apocalypse Will Bring Out the Best in People
+p116
+aVhttps://psmag.com/how-the-apocalypse-will-bring-out-the-best-in-people-56f51136e770#.oegshdfkk
+p117
+aI77
+asI40
+(lp118
+VRandom failures in compiled LuaJIT code
+p119
+aVhttp://www.freelists.org/post/luajit/Random-failures-in-compiled-code
+p120
+aI49
+asI41
+(lp121
+VSort an array using only one local variable
+p122
+aVhttp://patrickmichaelsen.com/blog/one-var-sort
+p123
+aI41
+asI42
+(lp124
+VAbout rel=noopener
+p125
+aVhttps://mathiasbynens.github.io/rel-noopener/?target=_blank
+p126
+aI391
+asI43
+(lp127
+VScala vs. Node.js as a RESTful back end server (2015)
+p128
+aVhttp://developers.redhat.com/blog/2015/04/22/scala-vs-node-js-as-a-restful-backend-server/
+p129
+aI57
+asI44
+(lp130
+VFictionalism in the Philosophy of Mathematics [pdf]
+p131
+aVhttp://www.colyvan.com/papers/fictionalism.pdf
+p132
+aI39
+asI45
+(lp133
+V\u201cWhaling\u201d emerges as cybersecurity threat
+p134
+aVhttp://www.cio.com/article/3059621/security/whaling-emerges-as-major-cybersecurity-threat.html
+p135
+aI26
+asI46
+(lp136
+V1M People Use Facebook Over Tor
+p137
+aVhttps://www.facebook.com/notes/facebook-over-tor/1-million-people-use-facebook-over-tor/865624066877648
+p138
+aI373
+asI47
+(lp139
+VJava garbage collection can be really slow
+p140
+aVhttp://jvns.ca/blog/2016/04/22/java-garbage-collection-can-be-really-slow/
+p141
+aI150
+asI48
+(lp142
+VWhen to Rewrite from Scratch \u2013 Autopsy of Failed Software
+p143
+aVhttp://codeahoy.com/2016/04/21/when-to-rewrite-from-scratch-autopsy-of-a-failed-software/
+p144
+aI232
+asI49
+(lp145
+VA Password Manager That Doesn't Store Passwords
+p146
+aVhttp://libeclipse.me/visionary/
+p147
+aI47
+asI50
+(lp148
+VYear of the OpenBSD desktop
+p149
+aVhttp://blog.tintagel.pl/2016/04/22/year-of-the-openbsd-desktop.html
+p150
+aI52
+as.

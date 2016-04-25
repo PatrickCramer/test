@@ -1,0 +1,18 @@
+{% extends 'namelist/base.html' %}
+ {% block main_content %}
+
+{% load static %}
+
+<img height="90" width="90" src="{% static 'hackernews/images/hn.png' %}"><p>
+Hackernews<br>
+
+ <table>
+ <tr><td>Nr</td><td>Title</td><td>Score</td></tr>
+ {% for key, value in hn_file.iteritems %}
+ <tr><td>{{key}}</td> <td><a href="{{value.1}}">{{value.0}}</a></td> <td>{{value.2}}</td></tr>
+ {%endfor%}
+  </table>
+
+
+{% endblock %}
+

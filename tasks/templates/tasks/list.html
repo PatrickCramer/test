@@ -1,0 +1,43 @@
+{% extends 'namelist/base.html' %}
+{% block main_content %}
+
+{% load static %}
+
+
+
+
+
+<img height="50" width="50" src="{% static 'task/images/list.png' %}"><p>
+
+{% if tasks %}
+
+
+ <form action="{% url 'tasks:taskedit' tasks.0.Name.id %}" method="POST" class="smart-green">
+ <h1>Tasks for: {{tasks.0.Name}} {{tasks.0.Name.last_name}}</h1>
+ {% csrf_token %}
+
+
+ {%for item in tasks%}
+
+<input type="text" value="{{item.todo}}" name="{{item.id}}"><br>
+{% endfor %}
+ <input type="submit" value="Save edits"><div>
+<a href="{% url 'tasks:task_new' tasks.0.Name.id %}">Add task</a>
+</div>
+
+ </form>
+
+
+
+
+{%else%}
+
+No tasks available
+
+{% endif %}
+
+
+
+
+ {% endblock %}
+</p>

@@ -1,0 +1,22 @@
+{% extends 'namelist/base.html' %}
+ {% block main_content %}
+
+Dit is de tempate waar we {{ adress.street }} {{ adress.city }} gaan editten
+
+<p>
+Plaatje --> /media/{{adress.img_house}}<br>
+Image --> <img src="/media/{{adress.img_house}}", alt="Plaatje" width="40" height="40">
+
+
+<form action = "{% url 'names:adress_edit_submit' adress.id %}" method="POST">
+    {% csrf_token %}
+<input type="text" value="{{ adress.street }}" name="street" width="200"><br>
+<input type="text" value="{{ adress.city }}" name="city" width="200">
+
+
+
+    <input type="submit">
+
+</form>
+
+{% endblock %}

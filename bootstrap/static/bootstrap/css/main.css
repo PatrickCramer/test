@@ -1,0 +1,27 @@
+div {
+    display:inline-block;
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: #FF0000;
+	/*Add your CSS here!*/
+
+}
+
+#one {
+	background-color: #FF0000;
+
+.darkBG{
+    background:999;
+    }
+
+    .darkerBG{
+    background:666;
+    }
+
+.darkestBG{
+    background:333;
+    }
+
+

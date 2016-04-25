@@ -1,0 +1,27 @@
+{% extends 'namelist/base.html' %}
+ {% block main_content %}
+
+{% load static %}
+
+
+<img height="60" width="60" src="/static/namelist/images/vk.png"><p>
+
+<div class="col-md-6">
+ <table>
+ <tr><td></td><td>Headlines Volkskrant</td></tr>
+ {% for item in vk %}
+ <tr><td>{{forloop.counter}}</td><td>{% autoescape off %}{{item}}{% endautoescape %}</td></tr>
+ {%endfor%}
+  </table>
+ </div>
+
+
+<div class="col-md-6">
+ <table>
+ <tr><td></td><td>Headlines Parool</td></tr>
+ {% for item in parool %}
+ <tr><td>{{forloop.counter}}</td><td>{% autoescape off %}{{item}}{% endautoescape %}</td></tr>
+ {%endfor%}
+  </table>
+ </div>
+{% endblock %}

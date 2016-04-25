@@ -1,0 +1,32 @@
+{% extends 'namelist/base.html' %}
+ {% block main_content %}
+
+{% load static %}
+
+
+<img height="50" width="50" src="{% static 'task/images/list.png' %}"><br>
+
+<b>Overview alle Tasks</b>
+
+<ul>
+
+{% for item in name %}
+
+<li> <a href="/tasks/{{item.id}}">[{{item.first_name}} {{item.last_name}}]</a></li>
+    {% for i in tasks %}
+    {% if i.Name_id == item.id %}
+        {{i.todo}}<br>
+
+    {% endif %}
+
+    {% endfor %}
+
+
+
+{% endfor %}
+
+
+</ul>
+
+{% endblock %}
+

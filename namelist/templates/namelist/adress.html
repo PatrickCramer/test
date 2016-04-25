@@ -1,0 +1,22 @@
+
+
+{% extends 'namelist/base.html' %}
+ {% block main_content %}
+
+{% load easy_maps_tags %}
+{% easy_map fulladress 250 250 %}
+
+{% if adress %}
+     lives at the following addres:<p>
+    {{adress.street}} {{adress.city}}
+
+<a href="{% url 'names:adress_edit' adress.id %}">Edit</a>
+
+{% else %}
+    <p>You dont have any adresses please add some</p>
+
+{% endif %}
+
+
+{% endblock %}
+
